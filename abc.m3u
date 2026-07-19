@@ -41,8 +41,6 @@ https://vips-livecdn.fptplay.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_560
 #EXTINF:-1 tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/football-logo-design-template-bebebf8ff1c25b66b504d37afaee99f0_screen.jpg?ts=1686017774" group-title="",ফিফা⚽⚽
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/s2/1745092.m3u8
 
-
-
 #EXTINF:-1,somoi
 http://103.151.60.162:2121/play/a00z/index.m3u8?hls
 #EXTINF:-1,Somoi
@@ -93,8 +91,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=3510&deviceMac=00:1A:79:31:34
 http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2076972&extension=ts
 #EXTINF:-1,আরবি
 http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2076966&extension=ts
-
-
 
 #EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="PRO✅",BTV🇧🇩
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
