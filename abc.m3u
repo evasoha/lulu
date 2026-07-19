@@ -7,6 +7,44 @@
 
 
 
+#EXTINF:-1,F I F A⚽
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,F I F A⚽
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,F I F A⚽
+https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/BOmdVUU12CzNJDfUzPFFYFCtvECwZDJLTqdTXzUiDdPy8Byw4q8eVDglGJjp0_S4TIycmLfhDZWP_XFFtOb7bQ/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live
+
+#EXTINF:-1,F I F A⚽
+http://206.212.244.63/63/index.m3u8
+#EXTINF:-1,F I F A⚽
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd?|drmScheme=clearkey&drmLicense=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+
+#EXTINF:-1,F I F A⚽
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd?|drmScheme=clearkey&drmLicense=abc5b2883121012850ebda05b528c5ec:e5250924f4b738905f7163a0134587a7
+
+#EXTINF:-1,F I F A⚽
+http://145.239.5.177/557a/index.m3u8
+
+#EXTINF:-1,F I F A⚽
+http://stream.mcquack.net/72/index.m3u8
+
+
+#EXTINF:-1,F I F A⚽
+https://dellamonic.s3.us-east-2.amazonaws.com/btsport2.m3u8
+#EXTINF:-1,F I F A⚽
+https://dellamonic.s3.us-east-2.amazonaws.com/btsport.m3u8
+
+
+#EXTINF:-1,F I F A⚽
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1,F I F A⚽
+http://tv.cloudcdn.me:80/live.ts?channelId=278&uid=3510&deviceMac=00:1A:79:31:34:0E
+
+
 
 #EXTINF:-1,আরবি HD
 http://mag.greatott.me/play/live.php?mac=A0:BB:3E:01:61:71&stream=2076972&extension=ts
