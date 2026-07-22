@@ -6,13 +6,13 @@
 
 #EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="BDIX",Sport 1
 http://103.191.99.248:5550/110/index.m3u8
-
+#EXTINF:-1,tvg-logo="https://pbs.twimg.com/media/GJNFbwFXIAAk_C_.jpg" group-title="BDIX",Sport 2
 http://103.191.99.248:5550/115/index.m3u8
-
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-title="BDIX",SONY LIV 1
 http://103.191.99.248:5550/119/index.m3u8
-
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-title="BDIX",SONY LIV 2
 http://103.191.99.248:5550/120/index.m3u8
-
+#EXTINF:-1, tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-title="BDIX",SONY LIV 3
 http://103.191.99.248:5550/121/index.m3u8
 
 http://103.191.99.248:5550/201/index.m3u8
