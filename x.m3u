@@ -31,15 +31,22 @@ http://103.191.99.248:5550/206/index.m3u8
 http://103.191.99.248:5550/207/index.m3u8
 #EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="BDIX",Jamuna TV
 http://103.191.99.248:5550/209/index.m3u8
-
+#EXTINF:-1 group-title="PRO✅" tvg-logo="https://imglink.cc/cdn/qonZADSZua.png",Zee Bangla
 http://103.191.99.248:5550/301/index.m3u8
 
 
-http://103.191.99.248:5550/302/index.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="PRO✅",Star Jalsha HD🇮🇳
+http://103.191.99.248:5550/302/index.m3u8
+#EXTINF:-1 tvg-id="77" group-title="PRO✅" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies SD🇮🇳
 http://103.191.99.248:5550/303/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="PRO✅",Colors Bangla
 http://103.191.99.248:5550/304/index.m3u8
 
 
