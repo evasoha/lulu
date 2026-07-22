@@ -25,12 +25,9 @@ http://103.191.99.248:5550/203/index.m3u8
 
 #EXTINF:-1 tvg-id="185" tvg-name="DBC News HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png" group-title="BDIX",DBC News
 http://103.191.99.248:5550/204/index.m3u8
-
-
 #EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="BDIX",Maasranga TV
 http://103.191.99.248:5550/206/index.m3u8
-
-
+#EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BDIX",Channel I HD
 http://103.191.99.248:5550/207/index.m3u8
 
 
