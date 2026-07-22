@@ -59,9 +59,9 @@ http://103.191.99.248:5550/501/index.m3u8
 http://103.191.99.248:5550/503/index.m3u8
 
 http://103.191.99.248:5550/602/index.m3u8
-
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="💠BDIX💠",9X Jalwa
 http://103.191.99.248:5550/703/index.m3u8
-#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="💠BDIX💠",9XM🌀
+#EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9xm.png" group-title="💠BDIX💠",9XM
 http://103.191.99.248:5550/704/index.m3u8
 #EXTINF:-1 group-title="💠BDIX💠" tvg-logo="https://images.toffeelive.com/images/program/18097/logo/240x240/mobile_logo_297723001673195119.png",Discovery HD
 http://103.191.99.248:5550/801/index.m3u8
