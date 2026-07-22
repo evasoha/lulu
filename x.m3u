@@ -27,6 +27,7 @@ http://103.191.99.248:5550/203/index.m3u8
 http://103.191.99.248:5550/204/index.m3u8
 
 
+#EXTINF:-1 tvg-id="229" tvg-name="Maasranga TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png" group-title="BDIX",Maasranga TV
 http://103.191.99.248:5550/206/index.m3u8
 
 
