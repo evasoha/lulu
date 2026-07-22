@@ -57,7 +57,7 @@ http://103.191.99.248:5550/501/index.m3u8
 
 
 http://103.191.99.248:5550/503/index.m3u8
-
+#EXTINF:-1 tvg-id="disney-channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Disney_Channel.png" group-title="💠BDIX💠",Disney Channel
 http://103.191.99.248:5550/602/index.m3u8
 #EXTINF:-1 tvg-logo="https://otapp.store/uploads/tv_image/sm/9x-jalwa.png" group-title="💠BDIX💠",9X Jalwa
 http://103.191.99.248:5550/703/index.m3u8
