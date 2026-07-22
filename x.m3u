@@ -36,8 +36,7 @@ http://103.191.99.248:5550/302/index.m3u8
 http://103.191.99.248:5550/303/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="💠BDIX💠",Colors Bangla
 http://103.191.99.248:5550/304/index.m3u8
-
-
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="💠BDIX💠",Zee Bangla Sonar
 http://103.191.99.248:5550/305/index.m3u8
 
 http://103.191.99.248:5550/306/index.m3u8
