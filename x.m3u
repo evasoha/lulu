@@ -29,8 +29,7 @@ http://103.191.99.248:5550/204/index.m3u8
 http://103.191.99.248:5550/206/index.m3u8
 #EXTINF:-1 tvg-id="132000" tvg-name="Channel I HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png" group-title="BDIX",Channel I HD
 http://103.191.99.248:5550/207/index.m3u8
-
-
+#EXTINF:-1 tvg-id="97" tvg-name="Jamuna TV" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png" group-title="BDIX",Jamuna TV
 http://103.191.99.248:5550/209/index.m3u8
 
 http://103.191.99.248:5550/301/index.m3u8
