@@ -26,17 +26,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTV-SPORTS.png" group-title="Sports ⚽",PTV SPORTS HD [PK]
-http://xown.site/token/stream.php?id=1488737&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
-#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports ⚽",Football World Cup 2026
-https://tv.beyondtaxconsultants.com/api/robi/lps/http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPCvTmUhiKDs4ehoVpFLh7xwdCNK2-N_gNFqnaOM4YRQ&s=10" group-title="Sports ⚽",Live Sports
-http://66.102.126.10:8000/play/a018/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg" group-title="Sports ⚽",--Live(Euro Sport 2 HD)--
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTV-SPORTS.png" group-title="Sports ⚽",PTV SPORTS FHD [PK]
-http://xown.site/token/stream.php?id=1488736&token=jzVQIX8Sa8Du818wRZdAH2eDDBHwGaqq
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="Sports ⚽",Football World Cup 2026
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bugsfreeweb.github.io/LiveTVCollector/BugsfreeLogo/default-logo.png" group-title="Sports ⚽",Cowboy tv
