@@ -2,6 +2,64 @@
 
 
 
+
+
+
+
+http://172.19.17.3:8090/hls/tsportshd.m3u8
+
+
+http://172.19.17.3:8090/hls/ptvsportshd.m3u8
+
+
+http://172.19.17.3:8090/hls/ASportsHD.m3u8
+
+
+http://172.19.17.3:8090/hls/StarSportsSelect1HD.m3u8
+
+
+
+
+http://172.19.17.3:8090/hls/StarSportsSelect2HD.m3u8
+
+
+http://172.19.17.3:8090/hls/StarSports2HD.m3u8
+
+
+http://172.19.17.3:8090/hls/SonyTen5HD.m3u8
+
+
+http://172.19.17.3:8090/hls/SonyTen5HD.m3u8
+
+
+http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
+
+
+http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
+
+
+
+
+http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
+
+
+http://172.19.17.3:8090/hls/somoytv.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nL2jYMpSFZHSV47_1T3Kdx_oACYy6EB7G9bzWr_UQJMw=s160-c-k-c0x00ffffff-no-rj"group-title="ORBIT💮",BTV
 http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
 
