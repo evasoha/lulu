@@ -8,93 +8,60 @@
 http://103.191.99.248:5550/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",PTV
 http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yzwt46Q/20241126-220214.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",WWE 
 http://27.124.71.27/T-Sports/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W1z5BGPZ/20240823_024712.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",A Sports HD
 http://103.151.60.204:881/A-Sports/video.m3u8?token=Cv90Fr-lyiZYh2
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",Willow Sports
 http://27.124.71.27/Willow_Extra/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star Sports 1
 http://103.151.60.204:881/StarSports1/video.m3u8?token=Cv90Fr-lyiZYh2
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png" group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲",Star Sports 2
 http://103.151.60.204:881/StarSports2/video.m3u8?token=Cv90Fr-lyiZYh2
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬🎲" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
 http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
-
-
 #EXTINF:-1 group-title="BDIX-2☕"tvg-logo="https://i.postimg.cc/43NXkFx5/20240823_023458.png",Animal Planet
 http://27.124.71.27/Animal_Planet/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕"tvg-logo="https://i.postimg.cc/MZR248Yw/20240823-024104.png",Love Natural 
 http://27.124.71.27/Love_Nature/index.m3u8
 
 
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/JhR9HDw4/20240823_023056.png",& Tv
 https://stream.ottplus.live/live/and_tv_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/XJ1SbVzN/20240823_022738.png",& Picture
 https://stream.ottplus.bd/live/and_picture_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/x8BwX6QW/20240823_022929.png",Zee Tv
 https://stream.ottplus.live/live/zee_tv_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/VN1c9Ztw/20240823_022636.png",Zee Cinema HD 
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/52SzwQF1/20251222_220548.png",Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/vT4DKmf3/20240925_075103.png",HUM TV
 https://stream.ottplus.live/live/hum_tv_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television
 https://stream.ottplus.live/live/sony_ent_sd_abr/index.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/XYfRvKzz/20240823_023036.png",Sony Television HD
 https://stream.ottplus.live/live/sony_ent_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/YS3BdNNW/20240823_022655.png",Sony Max HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/hP59QSrm/20240825_075205.png",Sony Max 2
 https://stream.ottplus.bd/live/max_2_abr/live/max_2_720/chunks.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/Gpz6FLrP/20240823_023114.png",Sony Sab HD
 https://stream.ottplus.bd/live/sub_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/8cF8kq2R/20240823_022835.png",Sony Wah
-
-#EXTINF:-1 tvg-logo="http://tv.spacexraj.com/uploads/6968988804cf2.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢",MBC BOLLYWOOD
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/13nLvxQx/20250630_050504.png",B4U Movie
 http://103.175.73.12:8080/live/43/43_0.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/tC7JLFj0/20240825_055845.png",Shemarooenterta 
 http://103.175.73.12:8080/live/189/189_0.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/Z5dRqZnV/20240825_055816.png",Bhojopuri Cinema
 http://103.175.73.12:8080/live/646/646_0.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines
 http://103.175.73.12:8080/live/53/53_0.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png", Gold Mines Movie 
 http://103.175.73.12:8080/live/51/51_0.m3u8
-
 #EXTINF:-1 group-title="BDIX-2☕" tvg-logo="https://i.postimg.cc/7ZNqRywh/20240823-023440.png",Gold Mines Bollywood
 http://103.175.73.12:8080/live/52/52_0.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.spacexraj.com/uploads/6968988804cf2.png" group-title="BDIX-2☕",MBC BOLLYWOOD
 http://27.124.71.27/MBC-Bollywood/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="BDIX-2☕" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",MOVIES Now
 http://27.124.71.27/Movies_Now/index.m3u8
 
