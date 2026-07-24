@@ -227,6 +227,36 @@ EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="
 
 
 
+http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
+
+http://172.19.17.3:8090/hls/SonyAtth.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
+http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
+
+http://172.19.17.3:8090/hls/SonyHD.m3u8
+
+http://172.19.17.3:8090/hls/ColorsHD.m3u8
+
+http://172.19.17.3:8090/hls/sonymaxhd.m3u8
+
+http://172.19.17.3:8090/hls/StarPlusHD.m3u8
+
+
+http://172.19.17.3:8090/hls/bbc_world.m3u8
+
+http://172.19.17.3:8090/hls/SangeetBangla.m3u8
+
+http://172.19.17.3:8090/hls/9xm.m3u8
+
+http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
+
+http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
+
+
+http://172.19.17.3:8090/hls/AndPictureHD.m3u8
+
+
+
 
 
 
