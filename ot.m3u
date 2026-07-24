@@ -100,19 +100,14 @@ http://27.124.71.27/Movies_Now/index.m3u8
 
 
 
-
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
-http://tvsen7.aynascope.net/sjhdbd/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="BDIX-2☕",Star Jalsha HD
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="BDIX-2☕",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/112571
+
+
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Colors Bangla HD
 http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
@@ -191,9 +186,9 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679-b/ndtvindia/master.m
 
 
 
-http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Zee Bangla HD
 http://27.124.71.27/Zee_Bangla/index.m3u8
 
 
@@ -467,8 +462,9 @@ http://27.124.71.27/Love_Nature/index.m3u8
 http://172.19.17.3:8090/hls/JalshaMoviesHD.m3u8
 
 http://172.19.17.3:8090/hls/SonyAtth.m3u8
-
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Star Jalsha HD
 http://172.19.17.3:8090/hls/StarJalshaHD.m3u8
+
 http://172.19.17.3:8090/hls/SonyHD.m3u8
 
 http://172.19.17.3:8090/hls/ColorsHD.m3u8
