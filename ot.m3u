@@ -639,11 +639,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="ARY News" tvg-country="BD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770531824347.png" tvg-chno="31" group-title="PK",ARY News▶️
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="ARY DIGITAL" tvg-country="PK" tvg-logo="https://play-lh.googleusercontent.com/n9P9QTU4pPUtKAsD8Eun6mlxxwpFt4WRLhF29XziXjRrS_vcYv7xMhaVoMvdUDvluac=w600-h300-pc0xffffff-pd" tvg-chno="55" group-title="PK",ARY DIGITAL▶️
-https://ml-pull-dvc-myco.io:2096/ARY_DIGITAL/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="55" tvg-name="HUM" tvg-country="PK" tvg-logo="https://yt3.googleusercontent.com/ozZfTXiDhcWiZAymmOj2cQFhZbcBTK0K6TnbguD3XsLmNY0SaEuK3Jfj3QwkZx7SmAJSicca-Q=s900-c-k-c0x00ffffff-no-rj" tvg-chno="55" group-title="PK",HUM▶️
-https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/index.m3u8
 
 
 
