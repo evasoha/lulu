@@ -470,9 +470,6 @@ http://27.124.71.27/Love_Nature/index.m3u8
 
 
 
-http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
-
-
 
 
 
@@ -633,8 +630,8 @@ http://172.19.17.3:8090/hls/SonyTen3hd.m3u8
 http://172.19.17.3:8090/hls/SonyTen2hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports" tvg-logo="http://172.19.17.28/images/asportse.png",A SPORTS
 http://172.19.17.3:8090/hls/ASportsHD.m3u8
-
-
+#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",Bein Sports 1
+http://172.19.17.3:8090/hls/BeinSports1ENG.m3u8
 
 
 
