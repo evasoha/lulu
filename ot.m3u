@@ -100,29 +100,27 @@ http://27.124.71.27/Movies_Now/index.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png"group-title="BDIX-2☕",Star Jalsha HD
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63525
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/5tjSrbLS/20240822-231445.png"group-title="BDIX-2☕",Zee Bangla HD
 https://stream.ottplus.bd/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
-
-
-
-
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚" tvg-logo="https://i.postimg.cc/3w6F5VZ5/20240822-231514.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚", Colors Bangla HD
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/108781
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png"group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png?20230625063343" group-title="BDIX-2☕",Star Jalsha HD
+http://103.191.99.248:5550/302/index.m3u8
+#EXTINF:-1 tvg-id="77" group-title="BDIX-2☕" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739965013824.png",Jalsha Movies
+http://103.191.99.248:5550/303/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Colors_Bangla.png" group-title="BDIX-2",Colors Bangla
+http://103.191.99.248:5550/304/index.m3u8
+#EXTINF:-1 tvg-id="zee-anoml-cinema" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeBanglaSonar.png" group-title="BDIX-2☕",Zee Bangla Sonar
+http://103.191.99.248:5550/305/index.m3u8
+#EXTINF:-1 tvg-id="sony-aath" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="BDIX-2☕",Sony Aath
+http://103.191.99.248:5550/306/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J0QXn2jh/20240823_020641.png"group-title="BDIX-2☕",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚",Sony Aath
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yNd3WJ0/20240822-231606.png" group-title="BDIX-2☕",Sony Aath
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/y88mJsQC/20240823_020415.png",Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/rFcCkS5m/20240822_231714.png",Jalsha Movies HD 
-http://mag.king-4k.cc/C1645263A1D245C/1sFTVBSVCP/63524
 
 #EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐁𝐚𝐧𝐠𝐥𝐚"tvg-logo="https://i.postimg.cc/dtBRtL99/20240822_231732.png",Zee Bangla Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
