@@ -489,7 +489,6 @@ http://172.19.17.3:8090/hls/sonymaxhd.m3u8
 
 http://172.19.17.3:8090/hls/StarPlusHD.m3u8
 
-http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
 
 http://172.19.17.3:8090/hls/bbc_world.m3u8
 
@@ -505,12 +504,7 @@ http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
 http://172.19.17.3:8090/hls/AndPictureHD.m3u8
 
 
-http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
 
-http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
-
-
-http://172.19.17.3:8090/hls/NatGeoWild.m3u8
 
 
 
@@ -975,32 +969,8 @@ http://172.19.17.3:8090/hls/NatGeoWild.m3u8
 http://172.19.17.3:8090/hls/DiscoveryHD.m3u8
 
 
-
-
-//--- Movies ---//
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies (BDIX)
-http://172.16.60.2:8088/501/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143829_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Pix (BDIX)
-http://172.16.60.2:8088/503/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s143830_ld_h15_aa.png?lock=720x540" group-title="Movies",Star Movies select(BDIX)
-http://10.20.30.40:8088/502/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="http://172.19.17.28/images/star-movies-hd.jpg",STAR MOVIES HD
 http://172.19.17.3:8090/hls/StarMoviesHD.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/SkyMoviesSelectHD.png" group-title="Movies",Skymovie Select
-http://97.74.103.44:8089/load/skymovselect/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Crime_DE_Logo_2021_%28TV_channel%29.svg/330px-Sky_Crime_DE_Logo_2021_%28TV_channel%29.svg.png" group-title="Movies",Skymovie Crime
-http://97.74.103.44:8089/load/skymovie_crime/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&flix HD
-http://97.74.103.44:8089/nimble_live/andflix/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540" group-title="Movies",&prive HD
-http://97.74.103.44:8089/nimble_live/andprive/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="" group-title="News" tvg-logo="http://172.19.17.28/images/aljazeranews.png",ALJAZEERA NEWS
 http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
